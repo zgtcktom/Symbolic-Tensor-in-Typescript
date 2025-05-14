@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "strict": true,
+        "target": "ESNext",
+        "lib": ["ESNext", "dom"],
+        "module": "ESNext",
+        "noEmit": true,
+        "rewriteRelativeImportExtensions": true,
+        "allowImportingTsExtensions": true
+    }
+}
